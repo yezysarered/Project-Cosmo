@@ -1,9 +1,8 @@
-# Cosmo
-## View 3rd-party GorillaCosmetics hats on other players without hassle
-
+# Project: Cosmo
+## Wired bananas > Wireless bananas
 ---
 
-### Remember to read carefully! This mod requires precise clicking, dragging, and file-editing before use. If you don't know how to do this, please steer away from using this mod.
+### A work-in-progress port of BananaWatch to Oculus/SteamVR (yes you can install mods on the rift version of gorilla tag).
 
 ---
 
